@@ -1,2 +1,4 @@
 # hello-world
-BIMM143
+
+**Jan Hsiao BIMM143**
+Assignment for "Video: README files and GitHub"
